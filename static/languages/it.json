@@ -1,13 +1,13 @@
 {
   "heading": "Quanto è equa la distribuzione del reddito nell'UE?",
-  "subheading": "Il coefficiente di Gini medio per l'UE nel 2023 è del 29,6%. Un coefficiente di Gini più elevato indica una distribuzione meno equa del reddito in un dato paese.",
+  "subheading": "Il coefficiente di Gini medio per l'UE nel 2023 è del 29,6%. Un coefficiente di Gini più elevato indica una distribuzione meno equa del reddito in un dato Paese.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "Coefficiente di Gini",
+  "tooltip1": "coefficiente di Gini",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "Un valore di Gini pari a 100 significa che una sola persona riceve tutto il reddito del Paese, mentre un valore di Gini pari a 0 significa che il reddito è distribuito equamente tra la popolazione.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

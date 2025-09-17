@@ -1,12 +1,12 @@
 {
-  "heading": "Kui võrdne on sissetulekute jaotus ELis?",
-  "subheading": "EL-i keskmine Gini koefitsient on 2023. aastal 29,6%. Kõrgem Gini koefitsient näitab vähem võrdset tulu jaotust antud riigis.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Kui võrdselt jaotuvad sissetulekud ELis?",
+  "subheading": "ELi keskmine Gini koefitsient oli 2023. aastal 29,6%. Kõrgem Gini koefitsient näitab sissetulekute ebavõrdsemat jaotust antud riigis.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "Gini koefitsient",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Gini väärtus 100 tähendab, et ainult üks inimene saab riigis kogu sissetuleku, samas kui Gini väärtus 0 tähendab, et sissetulek jaguneb elanikkonna vahel võrdselt.",
+  "textNote": "Gini väärtus 100 tähendab, et kogu riigi sissetulek läheb ühele inimesele, Gini väärtus 0 aga tähendab, et sissetulek jaotub elanikkonna vahel võrdselt.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

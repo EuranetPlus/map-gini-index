@@ -1,13 +1,13 @@
 {
-  "heading": "Cik vienlīdzīga ir ienākumu sadale ES?",
-  "subheading": "Vidējais Džini koeficients ES 2023. gadā ir 29,6%. Augstāks Džini koeficients norāda uz mazāk vienlīdzīgu ienākumu sadalījumu attiecīgajā valstī.",
-  "legend1": "Nav pieejami dati",
+  "heading": "Cik vienlīdzīgs ir ienākumu sadalījums ES?",
+  "subheading": "Džini koeficients ES vidējais rādītājs 2023. gadā bija 29,6 %. Augstāks Džini koeficients norāda uz nevienlīdzīgāku ienākumu sadalījumu konkrētajā valstī.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "Džini koeficients",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Džini vērtība 100 nozīmē, ka tikai viena persona saņem visus ienākumus valstī, savukārt Džini vērtība 0 nozīmē, ka ienākumi ir vienādi sadalīti starp visiem iedzīvotājiem.",
+  "textNote": "Džini koeficienta vērtība 100 nozīmē, ka visus ienākumus valstī saņem tikai viena persona, savukārt Džini koeficienta vērtība 0 nozīmē, ka ienākumi tiek vienmērīgi sadalīti starp iedzīvotājiem.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

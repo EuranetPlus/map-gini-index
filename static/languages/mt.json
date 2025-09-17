@@ -1,13 +1,13 @@
 {
   "heading": "Kemm hi ugwali d-distribuzzjoni tad-dħul fl-UE?",
-  "subheading": "Il-koeffiċjent medju Gini għall-UE fl-2023 huwa 29.6%. Koeffiċjent ta' Gini ogħla jindika distribuzzjoni inqas ugwali tad-dħul f'pajjiż partikolari.",
+  "subheading": "Il-koeffiċjent Gini medju għall-UE fl-2023 huwa ta’ 29.6%. Koeffiċjent Gini ogħla jindika distribuzzjoni inqas ugwali tad-dħul f’pajjiż partikolari.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "Koeffiċjent ta' Gini",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Valur ta’ Gini ta’ 100 ifisser li persuna waħda biss tirċievi d-dħul kollu fil-pajjiż, filwaqt li valur ta’ Gini ta’ 0 ifisser li d-dħul jitqassam b’mod ugwali madwar il-popolazzjoni.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Valur Gini ta' 100 ifisser li persuna waħda biss tirċievi d-dħul kollu fil-pajjiż, filwaqt li valur Gini ta' 0 ifisser li d-dħul huwa mqassam b'mod ugwali madwar il-popolazzjoni.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

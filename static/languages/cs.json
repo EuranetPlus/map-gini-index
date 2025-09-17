@@ -1,13 +1,13 @@
 {
-  "heading": "Jak rovnoměrné je rozdělení příjmů v EU?",
-  "subheading": "Průměrný Gini koeficient pro EU v roce 2023 je 29,6 %. Vyšší Giniho koeficient ukazuje na méně rovnoměrné rozdělení příjmů v dané zemi.",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Jak spravedlivé je rozdělení příjmů v EU?",
+  "subheading": "Průměrný Giniho koeficient pro EU v roce 2023 je 29,6 %. Vyšší Giniho koeficient naznačuje méně rovnoměrné rozdělení příjmů v dané zemi.",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "Giniho koeficient",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Hodnota Gini 100 znamená, že všechny příjmy v zemi dostává pouze jedna osoba, zatímco hodnota Gini 0 znamená, že příjem je rovnoměrně rozdělen mezi obyvatelstvo.",
+  "textNote": "Giniho hodnota 100 znamená, že pouze jedna osoba pobírá veškerý příjem v zemi, zatímco Giniho hodnota 0 znamená, že příjem je rovnoměrně rozdělen mezi obyvatelstvo.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

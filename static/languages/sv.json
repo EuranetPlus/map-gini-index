@@ -1,13 +1,13 @@
 {
   "heading": "Hur jämn är inkomstfördelningen i EU?",
-  "subheading": "Den genomsnittliga Gini-koefficienten för EU år 2023 är 29,6 %. En högre Gini-koefficient indikerar en mindre jämn inkomstfördelning i ett visst land.",
+  "subheading": "Den genomsnittliga Gini-koefficienten för EU år 2023 är 29,6 %. En högre Gini-koefficient indikerar en mindre jämn inkomstfördelning i ett givet land.",
   "legend1": "Inga data tillgängliga",
-  "tooltip1": "Gini-koefficient",
+  "tooltip1": "Gini-koefficienten",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Ett Gini-värde på 100 innebär att endast en person får alla inkomster i landet, medan ett Gini-värde på 0 innebär att inkomsten fördelas lika över befolkningen.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Ett Gini-värde på 100 innebär att endast en person får all inkomst i landet, medan ett Gini-värde på 0 innebär att inkomsten är jämnt fördelad över befolkningen.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

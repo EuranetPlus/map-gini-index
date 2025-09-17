@@ -1,13 +1,13 @@
 {
-  "heading": "Kako enakomerna je porazdelitev dohodkov v EU?",
-  "subheading": "Povprečni Ginijev koeficient za EU leta 2023 je 29,6 %. Višji Ginijev koeficient kaže na manj enakomerno porazdelitev dohodka v določeni državi.",
-  "legend1": "Ni podatkov",
+  "heading": "Kako enakomerna je porazdelitev dohodka v EU?",
+  "subheading": "Povprečni Ginijev koeficient za EU v letu 2023 je 29,6 %. Višji Ginijev koeficient kaže na manj enakomerno porazdelitev dohodka v določeni državi.",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "Ginijev koeficient",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Vrednost Gini 100 pomeni, da samo ena oseba prejme ves dohodek v državi, medtem ko vrednost Gini 0 pomeni, da je dohodek enakomerno porazdeljen med prebivalstvom.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Ginijeva vrednost 100 pomeni, da samo ena oseba prejema ves dohodek v državi, medtem ko Ginijeva vrednost 0 pomeni, da je dohodek enakomerno porazdeljen med prebivalstvom.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

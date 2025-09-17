@@ -1,13 +1,13 @@
 {
   "heading": "¿Qué tan equitativa es la distribución del ingreso en la UE?",
-  "subheading": "El coeficiente de Gini medio para la UE en 2023 es del 29,6 %. Un coeficiente de Gini más alto indica una distribución menos equitativa de los ingresos en un país determinado.",
+  "subheading": "El coeficiente de Gini medio para la UE en 2023 es del 29,6 %. Un coeficiente de Gini más alto indica una distribución menos equitativa de la renta en un país determinado.",
   "legend1": "No hay datos disponibles",
-  "tooltip1": "coeficiente de Gini",
+  "tooltip1": "Coeficiente de Gini",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "Un valor de Gini de 100 significa que sólo una persona recibe todos los ingresos del país, mientras que un valor de Gini de 0 significa que los ingresos se distribuyen equitativamente entre la población.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
 }

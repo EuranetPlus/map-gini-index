@@ -1,13 +1,13 @@
 {
   "heading": "Koliko je ravnomjerna raspodjela dohotka u EU?",
-  "subheading": "Prosječni Gini koeficijent za EU 2023. iznosi 29,6%. Viši Gini koeficijent ukazuje na manje ravnomjernu raspodjelu dohotka u određenoj zemlji.",
+  "subheading": "Prosječni Ginijev koeficijent za EU u 2023. iznosi 29,6%. Viši Ginijev koeficijent ukazuje na manje ravnomjernu raspodjelu dohotka u određenoj zemlji.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "Ginijev koeficijent",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Gini vrijednost od 100 znači da samo jedna osoba prima sav prihod u zemlji, dok Gini vrijednost od 0 znači da je prihod ravnomjerno raspoređen među stanovništvom.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Ginijeva vrijednost od 100 znači da samo jedna osoba prima sav dohodak u zemlji, dok Ginijeva vrijednost od 0 znači da je dohodak ravnomjerno raspoređen među stanovništvom.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

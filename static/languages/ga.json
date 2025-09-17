@@ -1,13 +1,13 @@
 {
-  "heading": "Cé chomh comhionann is atá an dáileadh ioncaim san AE?",
-  "subheading": "Is é meán-chomhéifeacht Gini don AE in 2023 ná 29.6%. Léiríonn comhéifeacht Gini níos airde dáileadh ioncaim nach lú chomhionann i dtír ar leith.",
+  "heading": "Cé chomh cothrom is atá dáileadh ioncaim san AE?",
+  "subheading": "Is é 29.6% meánchomhéifeacht Gini an AE in 2023. Léiríonn comhéifeacht Gini níos airde dáileadh ioncaim nach bhfuil chomh cothrom céanna i dtír ar leith.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "Comhéifeacht gini",
+  "tooltip1": "Comhéifeacht Gini",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Ciallaíonn luach gini de 100 nach bhfaigheann ach duine amháin an t-ioncam ar fad sa tír, agus ciallaíonn luach Gini de 0 go ndéantar ioncam a dháileadh go cothrom ar fud an daonra.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=ga",
+  "textNote": "Ciallaíonn luach Gini de 100 nach bhfaigheann ach duine amháin an t-ioncam go léir sa tír, agus ciallaíonn luach Gini de 0 go ndáiltear an t-ioncam go cothrom ar fud an daonra.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

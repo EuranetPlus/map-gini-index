@@ -1,13 +1,13 @@
 {
-  "heading": "Kuinka tasapuolinen tulonjako on EU:ssa?",
-  "subheading": "EU:n keskimääräinen Gini-kerroin vuonna 2023 on 29,6 prosenttia. Korkeampi Gini-kerroin tarkoittaa vähemmän tasaista tulonjakoa tietyssä maassa.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Kuinka tasaista tulonjako on EU:ssa?",
+  "subheading": "EU:n keskimääräinen Gini-kerroin vuonna 2023 oli 29,6 %. Korkeampi Gini-kerroin osoittaa epätasaisempaa tulonjakoa tietyssä maassa.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "Gini-kerroin",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Huom",
-  "textNote": "Gini-arvo 100 tarkoittaa, että vain yksi henkilö saa kaikki tulot maassa, kun taas Gini-arvo 0 tarkoittaa, että tulot jakautuvat tasaisesti väestön kesken.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Gini-arvo 100 tarkoittaa, että vain yksi henkilö saa kaikki maan tulot, kun taas Gini-arvo 0 tarkoittaa, että tulot jakautuvat tasaisesti väestön kesken.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Kiek tolygus pajamų pasiskirstymas ES?",
-  "subheading": "Vidutinis Gini koeficientas ES 2023 metais yra 29,6%. Didesnis Gini koeficientas rodo ne tokį tolygų pajamų pasiskirstymą tam tikroje šalyje.",
+  "heading": "Kiek tolygiai pasiskirsto pajamos ES?",
+  "subheading": "Vidutinis Gini koeficientas ES 2023 m. yra 29,6 %. Didesnis Gini koeficientas rodo mažiau tolygų pajamų pasiskirstymą tam tikroje šalyje.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Džini koeficientas",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Gini reikšmė 100 reiškia, kad tik vienas asmuo gauna visas pajamas šalyje, o Gini reikšmė 0 reiškia, kad pajamos pasiskirsto vienodai tarp gyventojų.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Gini koeficiento vertė, lygi 100, reiškia, kad visas šalies pajamas gauna tik vienas asmuo, o Gini koeficiento vertė, lygi 0, reiškia, kad pajamos paskirstomos tolygiai visiems gyventojams.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

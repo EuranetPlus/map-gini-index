@@ -1,13 +1,13 @@
 {
-  "heading": "Cât de egală este distribuția venitului în UE?",
-  "subheading": "Coeficientul Gini mediu pentru UE în 2023 este de 29,6%. Un coeficient Gini mai mare indică o distribuție mai puțin egală a venitului într-o anumită țară.",
-  "legend1": "Nu există date disponibile",
-  "tooltip1": "coeficientul Gini",
+  "heading": "Cât de egală este distribuția veniturilor în UE?",
+  "subheading": "Coeficientul Gini mediu pentru UE în 2023 este de 29,6%. Un coeficient Gini mai mare indică o distribuție mai puțin egală a veniturilor într-o anumită țară.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "Coeficientul Gini",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "O valoare Gini de 100 înseamnă că o singură persoană primește toate veniturile din țară, în timp ce o valoare Gini de 0 înseamnă că venitul este distribuit în mod egal în întreaga populație.",
+  "textNote": "O valoare Gini de 100 înseamnă că o singură persoană primește tot venitul țării, în timp ce o valoare Gini de 0 înseamnă că venitul este distribuit în mod egal între populație.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

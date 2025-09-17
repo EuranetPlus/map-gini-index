@@ -1,13 +1,13 @@
 {
   "heading": "Jak równy jest rozkład dochodów w UE?",
-  "subheading": "Średni współczynnik Giniego dla UE w 2023 r. wyniósł 29,6%. Wyższy współczynnik Giniego oznacza mniej równomierny rozkład dochodów w danym kraju.",
+  "subheading": "Średni współczynnik Giniego dla UE w 2023 r. wynosi 29,6%. Wyższy współczynnik Giniego oznacza mniej równomierny rozkład dochodów w danym kraju.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Współczynnik Giniego",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Współczynnik Giniego równy 100 oznacza, że tylko jedna osoba otrzymuje cały dochód w kraju, natomiast współczynnik Giniego równy 0 oznacza, że dochód jest rozdzielany równo między wszystkie osoby w kraju.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Współczynnik Giniego równy 100 oznacza, że tylko jedna osoba otrzymuje cały dochód w kraju, natomiast współczynnik Giniego równy 0 oznacza, że dochód jest rozłożony równo w całej populacji.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }
